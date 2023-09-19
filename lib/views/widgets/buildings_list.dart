@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:schdule_uust/views/pages/Home_Screen/home_controller.dart';
 import '../../service/theme_service.dart';
+import '../pages/Home_Screen/home_controller.dart';
 
 Widget buildingsList() {
   final HomeController controller = Get.find();

@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:html/parser.dart';
 import 'package:http/http.dart' as https;
-import 'package:schdule_uust/views/pages/Home_Screen/home_controller.dart';
+import 'package:schedule_uust/views/pages/Home_Screen/home_controller.dart';
 import '../consts/consts.dart';
 
 class ApiProvider extends GetConnect {

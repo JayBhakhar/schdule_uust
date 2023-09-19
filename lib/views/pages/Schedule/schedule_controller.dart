@@ -1,7 +1,6 @@
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:html/parser.dart';
-
 import '../../../service/api_provider.dart';
 
 class ScheduleController extends GetxController {

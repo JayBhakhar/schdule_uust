@@ -52,21 +52,17 @@ Widget scheduleTable() {
                           children: [
                             Text(
                                 '${controller.lecNoList[index]} ${controller.lecTypeList[index]} ${controller.lecCabList[index]}'),
-                            
                             Text(
                               '${controller.lecTimeList[index]}',
                             ),
-                            
                           ],
                         ),
                         Text(
                           '${controller.lecNameList[index]}',
                         ),
-                        
                         Text(
                           '${controller.teacherNameList[index]}${controller.groupList[index]}',
                         ),
-                        
                       ],
                     ),
                   ),
@@ -114,21 +110,17 @@ Widget scheduleTable() {
                             Text(
                               '${controller.lecNoList[controller.forday2 + index]} ${controller.lecTypeList[controller.forday2 + index]} ${controller.lecCabList[controller.forday2 + index]}',
                             ),
-                            
                             Text(
                               '${controller.lecTimeList[controller.forday2 + index]}',
                             ),
-                            
                           ],
                         ),
                         Text(
                           '${controller.lecNameList[controller.forday2 + index]}',
                         ),
-                        
                         Text(
                           '${controller.teacherNameList[controller.forday2 + index]}${controller.groupList[controller.forday2 + index]}',
                         ),
-                        
                       ],
                     ),
                   ),
@@ -177,21 +169,17 @@ Widget scheduleTable() {
                             Text(
                               '${controller.lecNoList[controller.forday3 + index]} ${controller.lecTypeList[controller.forday3 + index]} ${controller.lecCabList[controller.forday3 + index]}',
                             ),
-                            
                             Text(
                               '${controller.lecTimeList[controller.forday3 + index]}',
                             ),
-                            
                           ],
                         ),
                         Text(
                           '${controller.lecNameList[controller.forday3 + index]}',
                         ),
-                        
                         Text(
                           '${controller.teacherNameList[controller.forday3 + index]}${controller.groupList[controller.forday3 + index]}',
                         ),
-                        
                       ],
                     ),
                   ),
@@ -242,21 +230,17 @@ Widget scheduleTable() {
                             Text(
                               '${controller.lecNoList[controller.forday4 + index]} ${controller.lecTypeList[controller.forday4 + index]} ${controller.lecCabList[controller.forday4 + index]}',
                             ),
-                            
                             Text(
                               '${controller.lecTimeList[controller.forday4 + index]}',
                             ),
-                            
                           ],
                         ),
                         Text(
                           '${controller.lecNameList[controller.forday4 + index]}',
                         ),
-                        
                         Text(
                           '${controller.teacherNameList[controller.forday4 + index]}${controller.groupList[controller.forday4 + index]}',
                         ),
-                        
                       ],
                     ),
                   ),
@@ -304,21 +288,17 @@ Widget scheduleTable() {
                             Text(
                               '${controller.lecNoList[controller.forday5 + index]} ${controller.lecTypeList[controller.forday5 + index]} ${controller.lecCabList[controller.forday5 + index]}',
                             ),
-                            
                             Text(
                               '${controller.lecTimeList[controller.forday5 + index]}',
                             ),
-                            
                           ],
                         ),
                         Text(
                           '${controller.lecNameList[controller.forday5 + index]}',
                         ),
-                        
                         Text(
                           '${controller.teacherNameList[controller.forday5 + index]}${controller.groupList[controller.forday5 + index]}',
                         ),
-                        
                       ],
                     ),
                   ),
@@ -366,21 +346,17 @@ Widget scheduleTable() {
                             Text(
                               '${controller.lecNoList[controller.forday6 + index]} ${controller.lecTypeList[controller.forday6 + index]} ${controller.lecCabList[controller.forday6 + index]}',
                             ),
-                            
                             Text(
                               '${controller.lecTimeList[controller.forday6 + index]}',
                             ),
-                            
                           ],
                         ),
                         Text(
                           '${controller.lecNameList[controller.forday6 + index]}',
                         ),
-                        
                         Text(
                           '${controller.teacherNameList[controller.forday6 + index]}${controller.groupList[controller.forday6 + index]}',
                         ),
-                        
                       ],
                     ),
                   ),

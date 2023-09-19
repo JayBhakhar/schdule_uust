@@ -14,6 +14,7 @@ class ScheduleView extends GetView<ScheduleController> {
     var arg = Get.arguments;
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: ThemeService.primaryColor,
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
           onPressed: () {

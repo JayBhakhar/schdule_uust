@@ -75,7 +75,7 @@ class HomeView extends GetView<HomeController> {
                   child: Container(
                     decoration: BoxDecoration(
                       color: ThemeService.cardColor,
-                      borderRadius: BorderRadius.circular(12),
+                      borderRadius: BorderRadius.circular(8)
                     ),
                     margin: EdgeInsets.only(top: 1.5),
                     child: Padding(
