@@ -1,16 +1,9 @@
-# schdule_uust
+**Schedule UUST**
 
-A new Flutter project.
+The Schedule UUST is a Flutter-based mobile application designed to provide scheduling functionalities for users. This project showcases the integration of Flutter for cross-platform app development, allowing it to run seamlessly on Android, iOS, and other platforms.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Cross-Platform Development with Flutter: Ensures a consistent and responsive user interface across multiple platforms.
+- State Management: Efficient handling of app state to provide a smooth user experience.
+- BCV Model: Utilizes the Binding-Command-View model for better code structure and maintainability.
